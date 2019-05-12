@@ -7,5 +7,5 @@
 
 ## Content
 
- - [Andrii Chyzh - GraphQL Patterns (Zlit, May 2019)](Andrii_Chyzh_-_GraphQL_Patterns_(Zlit,_May_2019).pdf)
+ - [Andrii Chyzh - GraphQL Patterns (Zlit, May 2019)](content/Andrii_Chyzh_-_GraphQL_Patterns_(Zlit,_May_2019).pdf)
 
